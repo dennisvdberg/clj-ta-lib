@@ -1,0 +1,13 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: clj-ta-lib
+Bundle-SymbolicName: clj-ta-lib
+Bundle-Version: 1.0.0.qualifier
+Bundle-ClassPath: clj-ta-lib.jar,
+ classes
+Export-Package: clj_ta_lib,
+ com.tictactec.ta.lib,
+ com.tictactec.ta.lib.meta,
+ com.tictactec.ta.lib.meta.annotation,
+ com.tictactec.ta.lib.meta.helpers,
+ com.tictactec.ta.lib.test
